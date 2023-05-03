@@ -1,6 +1,6 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical"height:"200px" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical"height:"200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"height="194px" width="50%">
 </div>
 <br/>
