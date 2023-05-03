@@ -1,7 +1,7 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
 <div>
-    <picture style="justify-content:baseline;" >
+    <picture style="align-items:baseline;" >
         <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical" />
     </picture>
     <picture>
