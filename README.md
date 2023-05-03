@@ -2,10 +2,10 @@
 
 <div style="justify-content:center; align-items:center;">
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&layout=compact" />
+        <img style="vertical-align: 2px;" src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
     </picture>
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&langs_count=10&layout=compact"/>
+        <img style="vertical-align: 2px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&langs_count=10&layout=compact"/>
     </picture>
 </div>
 
