@@ -1,9 +1,13 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
-<!--<div style="justify-content:center; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
-
+<div style="justify-content:center; align-items:center;">
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
+    </picture>
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
+    </picture>
+</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
