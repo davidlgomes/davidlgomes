@@ -1,4 +1,4 @@
-<h1 style="font-weight:bold;">Oi, eu sou o David, me contrate que eu digo se esperava!</h1>
+<h1 style="font-weight:bold;">Prazer, David!</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
