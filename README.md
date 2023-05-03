@@ -9,7 +9,6 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --><br/>
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)<br/>
 <h2>Tecnologias Utilizadas<h2/>
   
