@@ -5,7 +5,7 @@
         <img style="justify-content:center; align-items:center height:auto;"src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
     </picture>
     <picture>
-        <img style="justify-content:center; align-items:center height:auto; src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
+        <img style="justify-content:center; align-items:center height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
     </picture>
 </div>
 
