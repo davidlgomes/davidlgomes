@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&theme=radical&hide_progress=true&langs_count=10"height="194px">
 </div>
 <br/>
-<h2>Tecnologias Utilizadas<h2/>
+<h2 align="center">Tecnologias Utilizadas<h2/>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
