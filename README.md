@@ -1,6 +1,6 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
-<div style="justify-content:center; align-items:center;">
+<div style="vertical-align: baseline; justify-content:center; align-items:center;">
     <picture>
         <img style="vertical-align: -50px;" src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
     </picture>
