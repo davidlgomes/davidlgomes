@@ -4,8 +4,8 @@
     <picture>
         <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical" />
     </picture>
-    <picture style="width:302px; height:126px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
+    <picture style="height:126px;">
+        <img style="height:126px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
     </picture>
 </div>
 <br/>
