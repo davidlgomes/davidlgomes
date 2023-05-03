@@ -1,12 +1,12 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
 <!--<div>
-    <picture style="align-items:baseline;" >-->
+    <picture style="align-items:baseline;" > -->
         <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical" />
    <!-- </picture>
-    <picture>-->
+    <picture> -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
-    <!--</picture>-->
+    <!-- </picture> -->
 </div>
 <br/>
 <h2>Tecnologias Utilizadas<h2/>
