@@ -1,7 +1,7 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
+<div style="align-items:baseline;">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
 </div>
 <br/>
 <h2>Tecnologias Utilizadas<h2/>
