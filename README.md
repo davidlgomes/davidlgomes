@@ -3,13 +3,14 @@
 
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
+</picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
+<picture>
 </picture>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)<br/>
 <h2>Tecnologias Utilizadas<h2/>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
