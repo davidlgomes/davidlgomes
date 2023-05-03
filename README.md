@@ -1,12 +1,9 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
+<!--<div style="justify-content:center; align-items:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
-</picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact"/>
-<picture>
-</picture>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,14 +38,4 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-
- 
-
-
-
-
-
-
-
-<!--<div style="justify-content:center; align-items:center;">
   
