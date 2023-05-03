@@ -2,10 +2,10 @@
 
 <div style="justify-content:center; align-items:center;">
     <picture>
-        <img style="justify-content:center; align-items:center; "src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true" />
     </picture>
     <picture>
-        <img style="justify-content:center; align-items:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&langs_count=10&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&langs_count=10&layout=compact"/>
     </picture>
 </div>
 
