@@ -1,11 +1,11 @@
 <h1 style="font-weight:bold;">Prazer, David!</h1>
 
-<div style="vertical-align: baseline; justify-content:baseline; align-items:baseline;">
+<div>
     <picture style="max-width:250px;max-height:250px;">
         <img src="https://github-readme-stats.vercel.app/api?username=davidlgomes&show_icons=true&theme=radical" />
     </picture>
     <picture>
-        <img style={"width:250px; height:250px;"} src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlgomes&hide_progress=true&langs_count=10"/>
     </picture>
 </div>
 <br/>
