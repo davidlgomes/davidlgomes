@@ -1,6 +1,6 @@
 <h1 align="center">Olá, meu nome é David Lopes Gomes! E esse sou eu</h1>
 <div>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://media.licdn.com/dms/image/D4D03AQGInuazeUS83w/profile-displayphoto-shrink_800_800/0/1710797612293?e=1717027200&v=beta&t=U9_FUmmbCHWPLBbNDmq0Gs9xLzVtC1FdJ_5qJ0rKNSY)" height="30" alt="wordpress logo"  />
+  <img src="https://media.licdn.com/dms/image/D4D03AQGInuazeUS83w/profile-displayphoto-shrink_800_800/0/1710797612293?e=1717027200&v=beta&t=U9_FUmmbCHWPLBbNDmq0Gs9xLzVtC1FdJ_5qJ0rKNSY" height="30" alt="wordpress logo"  />
 </div>
 
 ###
